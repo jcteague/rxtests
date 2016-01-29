@@ -1,0 +1,14 @@
+C:\Dev\rxtests\tests\bin\Debug\tests.dll
+C:\Dev\rxtests\tests\bin\Debug\tests.pdb
+C:\Dev\rxtests\tests\bin\Debug\nunit.framework.dll
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Core.dll
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Interfaces.dll
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Linq.dll
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Core.xml
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Interfaces.xml
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.Linq.xml
+C:\Dev\rxtests\tests\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Dev\rxtests\tests\obj\Debug\tests.csprojResolveAssemblyReference.cache
+C:\Dev\rxtests\tests\obj\Debug\tests.dll
+C:\Dev\rxtests\tests\obj\Debug\tests.pdb
